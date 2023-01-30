@@ -1,2 +1,2 @@
-# js-calendar
- Calendar UI Design with Dark Mode and Animation Using HTML CSS JavaScript
+# Responsive JavaScript Calendar
+ A Calendar UI Design with theme compatibility and animations developed using HTML CSS and JavaScript
